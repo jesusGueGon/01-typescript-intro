@@ -1,6 +1,6 @@
 import './style.css'
 
-import "./topics/07-import-export.ts";
+import "./topics/11-optional-chaining.ts";
 
 import { setupCounter } from './counter.ts'
 
